@@ -8,9 +8,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Izannavarro)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/izannavarrx/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Izannavarro&color=green&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/Izannavarro?style=social)
-
 </div>
 
 ---
@@ -136,20 +133,6 @@ Proyecto final desarrollado en equipo de 4 personas para gestión y manipulació
 
 ---
 
-## 📊 **Estadísticas de GitHub**
-
-<div align="center">
-
-![Izan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izannavarro&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=84cc16&text_color=f1f5f9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izannavarro&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=f1f5f9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Izannavarro&theme=radical&hide_border=true&background=0D1117&stroke=22c55e&ring=84cc16&fire=22c55e&currStreakLabel=f1f5f9)
-
-</div>
-
----
-
 ## 🎯 **Competencias Profesionales**
 
 <div align="center">
@@ -208,17 +191,17 @@ Proyecto final desarrollado en equipo de 4 personas para gestión y manipulació
 
 ### 🚀 **¿Listo para llevar tu equipo al siguiente nivel?**
 
-**Estoy buscando mi primera oportunidad profesional como desarrollador junior**
+**Estoy buscando oportunidades profesionales como desarrollador junior**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izannavarro/)
-[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izannavarro@example.com)
+[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izannavarro2005@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Proyectos-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Izannavarro)
 
 ---
 
 ### ⭐ **"El código es poesía, y cada proyecto es una historia por contar"**
 
-*¡Gracias por visitar mi perfil! No olvides darle una estrella ⭐ a mis repositorios si te parecen interesantes.*
+*¡Gracias por visitar mi perfil!*
 
 </div>
 
