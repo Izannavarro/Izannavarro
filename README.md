@@ -14,8 +14,6 @@
 
 ## 🎯 **Sobre Mí**
 
-> **"Transformando ideas en código, una línea a la vez"**
-
 Soy un **desarrollador de software junior** apasionado por crear soluciones tecnológicas innovadoras que resuelvan problemas reales. Con experiencia en desarrollo **full-stack** y **móvil**, me especializo en construir aplicaciones que combinan funcionalidad robusta con experiencias de usuario excepcionales.
 
 🎓 **Graduado en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
@@ -198,8 +196,6 @@ Proyecto final desarrollado en equipo de 4 personas para gestión y manipulació
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Proyectos-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Izannavarro)
 
 ---
-
-### ⭐ **"El código es poesía, y cada proyecto es una historia por contar"**
 
 *¡Gracias por visitar mi perfil!*
 
