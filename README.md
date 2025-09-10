@@ -182,7 +182,8 @@ Proyecto final desarrollado en equipo de 4 personas para gestión y manipulació
 <!--END_SECTION:activity-->
 
 ---
-
+<div align="center">
+  
 ## 📞 **¡Conectemos!**
 
 **Estoy buscando oportunidades profesionales como desarrollador junior**
