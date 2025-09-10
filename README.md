@@ -185,10 +185,6 @@ Proyecto final desarrollado en equipo de 4 personas para gestión y manipulació
 
 ## 📞 **¡Conectemos!**
 
-<div align="center">
-
-### 🚀 **¿Listo para llevar tu equipo al siguiente nivel?**
-
 **Estoy buscando oportunidades profesionales como desarrollador junior**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izannavarro/)
