@@ -19,7 +19,7 @@ Soy un **desarrollador de software junior** apasionado por crear soluciones tecn
 🎓 **Graduado en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
 📍 **Ubicación:** Valencia, España  
 💼 **Estado:** Buscando oportunidades como desarrollador junior  
-🌱 **Aprendiendo:** Nuevas tecnologías y mejores prácticas de desarrollo
+🌱 **Aprendiendo:** Nuevas tecnologías, mejores prácticas de desarrollo y **ciberseguridad**
 
 ---
 
@@ -86,6 +86,35 @@ Aplicación híbrida para conectar dueños de mascotas con cuidadores profesiona
 
 ---
 
+### 🛡️ **CE_Ciberseguridad** - *Proyectos del Curso de Especialización en Ciberseguridad*
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-100000?style=flat-square&logo=github)](https://github.com/Izannavarro/CE_Ciberseguridad)
+![HTML](https://img.shields.io/badge/HTML-100%25-E34F26?style=flat-square)
+
+Repositorio que alberga los proyectos y prácticas realizadas durante mi **Curso de Especialización en Ciberseguridad**.
+
+🔧 **Tecnologías:** HTML, Python, Bash, herramientas de seguridad  
+✨ **Características:**
+- Análisis de vulnerabilidades
+- Prácticas de hardening de sistemas
+- Scripts de monitorización y defensa
+- Documentación técnica de seguridad
+
+---
+
+### 🔓 **SSL_Strip Vulnerability** - *Investigación sobre Ataques SSL Stripping*
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-100000?style=flat-square&logo=github)](https://github.com/Izannavarro/SSL_Strip_Vulnerability)
+
+Repositorio dedicado a la investigación y demostración práctica de la vulnerabilidad **SSL Strip**, un ataque que degrada conexiones HTTPS a HTTP.
+
+🔧 **Tecnologías:** Python, Redes, Criptografía  
+✨ **Características:**
+- Explicación detallada del ataque
+- Entorno controlado para pruebas
+- Mitigaciones y buenas prácticas
+- Laboratorio práctico educativo
+
+---
+
 ### 🎮 **BlackJack Fr-Esp** - *Juego de Cartas Bilingüe*
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-100000?style=flat-square&logo=github)](https://github.com/Izannavarro/BlackJack_Fr-Esp)
 ![Java](https://img.shields.io/badge/Java-100%25-ED8B00?style=flat-square)
@@ -143,6 +172,7 @@ Proyecto final desarrollado en equipo de 4 personas para gestión y manipulació
 | **Programación Orientada a Objetos** | Java, C# | ⭐⭐⭐⭐⭐ |
 | **Desarrollo Colaborativo** | Git, GitHub, Trabajo en Equipo | ⭐⭐⭐⭐⭐ |
 | **Gestión de Proyectos** | Metodologías Ágiles, Documentación | ⭐⭐⭐⭐⭐ |
+| **Ciberseguridad** (en formación) | Análisis de vulnerabilidades, SSL Strip, Hardening | ⭐⭐⭐☆☆ |
 
 </div>
 
@@ -167,6 +197,7 @@ Proyecto final desarrollado en equipo de 4 personas para gestión y manipulació
 
 ### 📚 **Aprendizaje Continuo**
 - Graduado en DAM con proyectos reales y funcionales
+- Cursando especialización en **Ciberseguridad** para ampliar mi perfil
 - Constantemente actualizándome con las últimas tendencias tecnológicas
 - Mentalidad de crecimiento y mejora continua
 
@@ -176,12 +207,14 @@ Proyecto final desarrollado en equipo de 4 personas para gestión y manipulació
 
 <!--START_SECTION:activity-->
 - 🔄 Actualizando repositorios con mejores prácticas
-- 📚 Aprendiendo nuevas tecnologías y frameworks
+- 📚 Aprendiendo nuevas tecnologías y frameworks, especialmente en **ciberseguridad**
 - 🤝 Colaborando en proyectos open source
 - 💼 Buscando oportunidades de desarrollo profesional
+- 🛡️ Investigando activamente vulnerabilidades y técnicas de defensa
 <!--END_SECTION:activity-->
 
 ---
+
 <div align="center">
   
 ## 📞 **¡Conectemos!**
