@@ -86,21 +86,6 @@ Aplicación híbrida para conectar dueños de mascotas con cuidadores profesiona
 
 ---
 
-### 🛡️ **CE_Ciberseguridad** - *Proyectos del Curso de Especialización en Ciberseguridad*
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-100000?style=flat-square&logo=github)](https://github.com/Izannavarro/CE_Ciberseguridad)
-![HTML](https://img.shields.io/badge/HTML-100%25-E34F26?style=flat-square)
-
-Repositorio que alberga los proyectos y prácticas realizadas durante mi **Curso de Especialización en Ciberseguridad**.
-
-🔧 **Tecnologías:** HTML, Python, Bash, herramientas de seguridad  
-✨ **Características:**
-- Análisis de vulnerabilidades
-- Prácticas de hardening de sistemas
-- Scripts de monitorización y defensa
-- Documentación técnica de seguridad
-
----
-
 ### 🔓 **SSL_Strip Vulnerability** - *Investigación sobre Ataques SSL Stripping*
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-100000?style=flat-square&logo=github)](https://github.com/Izannavarro/SSL_Strip_Vulnerability)
 
